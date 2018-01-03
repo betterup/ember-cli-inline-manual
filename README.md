@@ -1,5 +1,7 @@
 # ember-cli-inline-manual
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/betterup/ember-cli-inline-manual.svg)](https://greenkeeper.io/)
+
 This ember-cli addon injects inline manual into your ember app.
 
 The inline manual javascript is injected into the app's index.html. This addon also comes with a service for the inline manual player.
